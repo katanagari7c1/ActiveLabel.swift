@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 		UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 
 		Features
-			* Up-to-date: Swift 2 (Xcode 7 GM)
+			* Up-to-date: Swift 2.3 (Xcode 8)
 			* Support for Hashtags, Mentions and Links
 			* Super easy to use and lightweight
 			* Works as UILabel drop-in replacement
